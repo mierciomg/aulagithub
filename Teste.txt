@@ -1,3 +1,4 @@
 Teste de curso git
 eu sou uma nova linha
 nova linha na branch criada
+criar alteração e mandar pro outro desenvolvedor provar o merge
